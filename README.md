@@ -50,7 +50,7 @@ This interactive Tableau dashboard explores the relationships between various he
 ---
 
 ## 📄 Documentation
-A user manual is available upon request to explain the dashboard’s structure, filters, and use cases.
+A user manual is available explain the dashboard’s structure, filters, and use cases.
 
 ---
 
